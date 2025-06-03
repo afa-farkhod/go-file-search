@@ -45,4 +45,4 @@ go run main.go ./go.mod cosmos
 
 ## 📜 License
 
-MIT — feel free to use, modify, and share!
+[MIT License](https://github.com/afa-farkhod/go-file-search/tree/main?tab=MIT-1-ov-file)
